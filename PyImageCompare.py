@@ -91,7 +91,7 @@ def main():
 
     print()
     print("Unloading images …")
-    for i in tqdm(range(len(filenames)), unit=" images"):
+    for i in tqdm(range(len(filenames)), unit="images"):
         thumbs[i].close()
 
     print()

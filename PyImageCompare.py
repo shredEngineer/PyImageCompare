@@ -20,7 +20,7 @@ from PIL import Image, ImageChops, ImageOps
 
 
 # Set this to your image folder path
-path = "/media/pw/EXTERN/FOTOS/2019 - Unsortiert"
+path = "/media/pw/EXTERN/FOTOS/2020 - Unsortiert"
 
 
 # These settings worked very well for me

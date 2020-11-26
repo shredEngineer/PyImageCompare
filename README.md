@@ -8,7 +8,7 @@ This program loads all images in a folder, generates grayscale thumbnails and ca
 
 It then renames (enumerates) similar image pairs such that you can examine and delete the duplicates afterwards.
 
-The ``DUP_xxxx_A`` file should always be the bigger one, so you are probably safe to delete the ``DUP_xxxx_B`` files.
+The ``DUP_xxxx_A_…`` files should always be the bigger ones, so you are probably safe to delete the ``DUP_xxxx_B_…`` files.
 
 *Tested with Python 3.8 in Ubuntu 20.04*
 

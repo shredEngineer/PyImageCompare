@@ -12,4 +12,4 @@ The "DUP_xxxx_A" file should always be the bigger one, so you are probably safe 
 
 *Tested with Python 3.8 in Ubuntu 20.04*
 
-*Note:* You should upgrade pillow if you get metadata errors:  python3 -m pip install pillow --upgrade
+*Note:* You should upgrade pillow if you get metadata errors:  ``python3 -m pip install pillow --upgrade``
